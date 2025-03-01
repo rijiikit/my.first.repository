@@ -1,0 +1,47 @@
+﻿.mainmenu {
+    display: flex;
+    background-color: #425052;
+    border: 10px solid grey;
+    border-radius: 10px;
+}
+
+h1 {
+    padding-left: 250px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: aqua;
+}
+
+body {
+    background-image: url(https://images.steamusercontent.com/ugc/100603056096699371/D8D7BF8DAB2B4D436C7D11500C14BA9A1A5938FD/);
+    background-size: cover;
+}
+
+p {
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 20px;
+    color: white;
+}
+
+.div1 {
+    background-color: #575f6b;
+    width: 45%;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #FFF;
+}
+
+iframe {
+    width: 40%;
+    height: 400px;
+}
+

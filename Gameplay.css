@@ -1,0 +1,76 @@
+﻿.mainmenu {
+    display: flex;
+    background-color: #425052;
+    border: 10px solid grey;
+    border-radius: 10px;
+}
+
+h1 {
+    padding-left: 250px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: aqua;
+}
+
+body {
+    background-image: url(https://wallpapersok.com/images/hd/terraria-biome-background-h1bm9hfi6el9yrfu.jpg);
+    background-size: cover;
+}
+
+p {
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 20px;
+    color: white;
+    background-color: #515f69;
+    
+}
+
+.cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+
+}
+
+.div1 {
+    background-color: #575f6b;
+    width: 50%;
+    border-radius: 10px;
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+
+}
+
+img {
+    margin-left: 100px;
+    width: 60%;
+}
+
+.img2 {
+    margin-left: 300px;
+}
+
+.div2 {
+    width: 55%;
+    display: flex;
+    ;
+    align-items: center;
+}
+
+.div2 img {
+    
+    height: auto;
+    border-radius: 10px;
+}
+

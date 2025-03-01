@@ -1,0 +1,44 @@
+﻿body {
+    background-image: url(https://forums.terraria.org/index.php?attachments/n-1-png.31583/);
+    background-size: cover;
+}
+
+.mainmenu {
+    display: flex;
+    background-color: #425052;
+    border: 10px solid grey;
+    border-radius: 10px;
+}
+
+h1 {
+    padding-left: 250px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: aqua;
+}
+
+.menu1text {
+    background-color: #575f6b;
+    color: white;
+    font-size: 20px;
+    margin: 50px 800px 0px 40px;
+    border-radius: 3px;
+    width: 40%
+}
+
+.menu1img {
+    height: 400px;
+    width: 700px;
+    padding-left: 560px;
+    border-radius: 20px;
+}
+
+p {
+    padding-left: 10px;
+}
